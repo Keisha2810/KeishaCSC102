@@ -17,4 +17,4 @@ class Student:
 
 print(Student.info())
 
-print("There are 2 instance variables, 1 class method, 1 class variable, and no instance bed")
+print("There are 2 instance variables, 1 class method, 1 class variable, and no instance method")
